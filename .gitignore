@@ -1,0 +1,12 @@
+node_modules
+
+# code editors
+*.sublime-project
+*.sublime-workspace
+.vscode/launch.json
+.idea
+
+# misc
+.DS_Store
+*.log*
+test-results/*

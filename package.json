@@ -1,0 +1,22 @@
+{
+  "name": "bigcommerce-apitesting-using-cypress",
+  "version": "1.0.0",
+  "description": "1.创建一个bigCommerce的试用账号 通过后台管理界面创建一些代售卖的产品（入口：Products->Add）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furong-Huang/BigCommerce-APITesting-using-Cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Furong-Huang/BigCommerce-APITesting-using-Cypress/issues"
+  },
+  "homepage": "https://github.com/Furong-Huang/BigCommerce-APITesting-using-Cypress#readme",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  }
+}
