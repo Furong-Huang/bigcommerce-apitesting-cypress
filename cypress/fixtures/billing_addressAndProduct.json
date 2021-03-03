@@ -1,0 +1,15 @@
+{
+    "city": "Austin",
+    "country": "United States",
+    "country_iso2": "US",
+    "email": "janedoe@email.com",
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "state": "Texas",
+    "street_1": "123 Main Street",
+    "zip": "78751",
+    "name": "BigCommerce Coffee Mug",
+    "price_ex_tax": 45,
+    "price_inc_tax": 50,
+    "quantity": 1
+  }
